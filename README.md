@@ -7,7 +7,7 @@ Over the past 20 years, search engines have become *the* entry point of the WWW.
 
 ## Publication(s)
 
-- Maximilian Speicher, Andreas Both, and Martin Gaedke (2014). "S.O.S.: Does Your Search Engine Results Page (SERP) Need Help?" In: *Proc. CHI*. :trophy: Best Paper Honorable Mention Award.
+- Maximilian Speicher, Andreas Both, and Martin Gaedke (2014). "S.O.S.: Does Your Search Engine Results Page (SERP) Need Help?" In: *Proc. CHI*. :trophy: Best Paper Honorable Mention Award. [Electronic Edition](http://dl.acm.org/citation.cfm?doid=2702123.2702568) | [Full Text](https://www.researchgate.net/publication/282441131)
 
 ## Resources
 
